@@ -23,7 +23,7 @@ to /public_html
 
 edit the file's in m folder and includes folder and replace in your webhost
 
- ## to use spammer email list : option for all user
+ # to use spammer email list : option for all user
  
  upload the content of croak my croak folder to your croak web_host 
  
