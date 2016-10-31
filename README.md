@@ -15,15 +15,7 @@ I just edit the file spammer.php
 
 # To Edit language:
 
-Edit to your language  and upload the file's 
-
-login_attempt.php
-
-index.php
-
-to /public_html
-
-Edit the file's in m folder and includes folder and upload the content to your webhost m  and includes folder's
+see redtoor suggestion's
 
 # To use spammer email list : option for all user
  
