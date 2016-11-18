@@ -22,3 +22,14 @@ see redtoor suggestion's
  upload the content of my croak folder to your croak web_host 
  
  all the content of my (login_attempt.php;index.php,includes,m) are edited for frensh user's
+ 
+ 
+# Tutorial:
+
+ (NEW2017) Hack-Facebook -Part1 :
+
+ https://www.youtube.com/watch?v=Dl5LKXyqewA&t=3s
+ 
+ (NEW2017) Hack-Facebook -Part2 :
+ 
+ https://www.youtube.com/watch?v=xsu39bfoqIE
